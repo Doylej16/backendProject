@@ -1,0 +1,47 @@
+{"body":{"flavor":"Lemon","quantity":25},"level":"info","method":"GET","params":{},"path":"/customers","service":"phone-company","timestamp":1681433545072}
+{"body":{"flavor":"Lemon","quantity":25},"level":"info","method":"GET","params":{},"path":"/customers","service":"phone-company","timestamp":1681433716641}
+{"body":{"flavor":"Lemon","quantity":25},"level":"info","method":"GET","params":{},"path":"/customers","service":"phone-company","timestamp":1681433805427}
+{"body":{"flavor":"Lemon","quantity":25},"level":"info","method":"GET","params":{},"path":"/customers","service":"phone-company","timestamp":1681433921835}
+{"body":{"flavor":"Lemon","quantity":25},"level":"info","method":"GET","params":{},"path":"/customers","service":"phone-company","timestamp":1681434013270}
+{"body":{"flavor":"Lemon","quantity":25},"level":"info","method":"GET","params":{},"path":"/customers","service":"phone-company","timestamp":1681434704637}
+{"body":{"flavor":"Lemon","quantity":25},"level":"info","method":"POST","params":{},"path":"/customers","service":"phone-company","timestamp":1681435472877}
+{"body":{},"level":"info","method":"GET","params":{},"path":"/customers","service":"phone-company","timestamp":1681435511043}
+{"body":{},"level":"info","method":"GET","params":{},"path":"/customers","service":"phone-company","timestamp":1681435552459}
+{"body":{},"level":"info","method":"GET","params":{},"path":"/customers","service":"phone-company","timestamp":1681436187132}
+{"body":{"firstName":"Doyle","lastName":"Jones"},"level":"info","method":"POST","params":{},"path":"/customers","service":"phone-company","timestamp":1681436425024}
+{"body":{"firstName":"Miles","lastName":"Morales"},"level":"info","method":"PUT","params":{},"path":"/customers/2","service":"phone-company","timestamp":1681436550107}
+{"body":{"firstName":"Miles","lastName":"Morales"},"level":"info","method":"PUT","params":{},"path":"/customers/2","service":"phone-company","timestamp":1681437127649}
+{"body":{"firstName":"Miles","lastName":"Morales"},"level":"info","method":"PUT","params":{},"path":"/customers/2","service":"phone-company","timestamp":1681437259845}
+{"body":{"firstName":"Miles","lastName":"Morales"},"level":"info","method":"PUT","params":{},"path":"/customers/2","service":"phone-company","timestamp":1681437650139}
+{"body":{"firstName":"Miles","lastName":"Morales"},"level":"info","method":"GET","params":{},"path":"/customers","service":"phone-company","timestamp":1681437694135}
+{"body":{"firstName":"Miles","lastName":"Morales"},"level":"info","method":"DELETE","params":{},"path":"/customers/1","service":"phone-company","timestamp":1681437864412}
+{"body":{"firstName":"Miles","lastName":"Morales"},"level":"info","method":"DELETE","params":{},"path":"/customers/2/bills","service":"phone-company","timestamp":1681438119067}
+{"body":{"firstName":"Miles","lastName":"Morales"},"level":"info","method":"POST","params":{},"path":"/customers/2/bills","service":"phone-company","timestamp":1681438153509}
+{"body":{" billingAmount ":40,"minutesUsed":100},"level":"info","method":"GET","params":{},"path":"/customers","service":"phone-company","timestamp":1681438390528}
+{"body":{},"level":"info","method":"GET","params":{},"path":"/customers","service":"phone-company","timestamp":1681483700194}
+{"body":{"city":"Leaf Village","firstName":" Madara","gender":"Sage","lastName":"Uchiha","phoneNumber":"666-666-6666","state":" Hidden in The Leaves"},"level":"info","method":"POST","params":{},"path":"/customers","service":"phone-company","timestamp":1681484394596}
+{"body":{},"level":"info","method":"PUT","params":{},"path":"/customers/2","service":"phone-company","timestamp":1681484561962}
+{"body":{},"level":"info","method":"GET","params":{},"path":"/customers","service":"phone-company","timestamp":1681484634769}
+{"body":{},"level":"info","method":"PUT","params":{},"path":"/customers/2","service":"phone-company","timestamp":1681484658170}
+{"body":{},"level":"info","method":"PUT","params":{},"path":"/customers/3","service":"phone-company","timestamp":1681484917089}
+{"body":{},"level":"info","method":"PUT","params":{},"path":"/customers/1","service":"phone-company","timestamp":1681484925042}
+{"body":{},"level":"info","method":"PUT","params":{},"path":"/customers/4","service":"phone-company","timestamp":1681484930956}
+{"body":{},"level":"info","method":"GET","params":{},"path":"/customers/","service":"phone-company","timestamp":1681484957645}
+{"body":{},"level":"info","method":"GET","params":{},"path":"/customers","service":"phone-company","timestamp":1681485060372}
+{"body":{},"level":"info","method":"GET","params":{},"path":"/customers","service":"phone-company","timestamp":1681485061055}
+{"body":{},"level":"info","method":"GET","params":{},"path":"/customers/2/bills","service":"phone-company","timestamp":1681485106857}
+{"body":{},"level":"info","method":"GET","params":{},"path":"/customers","service":"phone-company","timestamp":1681485194924}
+{"body":{"city":"New York","firstName":"Miles","gender":"Spider","id":2,"lastName":"Morales","phoneNumber":"616-616-6161","state":"New York"},"level":"info","method":"PUT","params":{},"path":"/customers/2","service":"phone-company","timestamp":1681485409826}
+{"body":{"city":"New York","firstName":"Miles","gender":"Spider","id":2,"lastName":"Morales","phoneNumber":"616-616-6161","state":"New York"},"level":"info","method":"GET","params":{},"path":"/customers/2","service":"phone-company","timestamp":1681485480408}
+{"body":{"city":"New York","firstName":"Miles","gender":"Spider","id":2,"lastName":"Morales","phoneNumber":"616-616-6161","state":"New York"},"level":"info","method":"GET","params":{},"path":"/customers","service":"phone-company","timestamp":1681485492045}
+{"body":{"city":"New York","firstName":"Miles","gender":"Spider","id":2,"lastName":"Morales","phoneNumber":"616-616-6161","state":"New York"},"level":"info","method":"GET","params":{},"path":"/customers","service":"phone-company","timestamp":1681506203154}
+{"body":{"city":"New York","firstName":"Miles","gender":"Spider","id":2,"lastName":"Morales","phoneNumber":"616-616-6161","state":"New York"},"level":"info","method":"GET","params":{},"path":"/customers","service":"phone-company","timestamp":1681506503106}
+{"body":{"city":"New York","firstName":"Miles","gender":"Spider","id":2,"lastName":"Morales","phoneNumber":"616-616-6161","state":"New York"},"level":"info","method":"POST","params":{},"path":"/customers/3/bills","service":"phone-company","timestamp":1681506624222}
+{"body":{"billingAmount":"1","dataConsumed":"2","minutesUsed":"5","outgoingCallsMade":"3","textsSent":"6"},"level":"info","method":"POST","params":{},"path":"/customers/3/bills","service":"phone-company","timestamp":1681507164740}
+{"body":{"amountofDataConsumed":"2","billingAmount":"10","id":"3","numberOfMinutesUsed":"11","numberOfOutgoingCallsMade":"3","numberOfTextsSent":"6"},"level":"info","method":"PUT","params":{},"path":"/bills/3","service":"phone-company","timestamp":1681507611640}
+{"body":{"amountofDataConsumed":"2","billingAmount":"10","id":"3","numberOfMinutesUsed":"11","numberOfOutgoingCallsMade":"3","numberOfTextsSent":"6"},"level":"info","method":"PUT","params":{},"path":"/bills/3","service":"phone-company","timestamp":1681507777268}
+{"body":{"amountofDataConsumed":"2","billingAmount":"10","id":"3","numberOfMinutesUsed":"11","numberOfOutgoingCallsMade":"3","numberOfTextsSent":"6"},"level":"info","method":"PUT","params":{},"path":"/bills/3","service":"phone-company","timestamp":1681507937609}
+{"body":{"amountofDataConsumed":"2","billingAmount":"10","numberOfMinutesUsed":"11","numberOfOutgoingCallsMade":"3","numberOfTextsSent":"6"},"level":"info","method":"PUT","params":{},"path":"/bills/3","service":"phone-company","timestamp":1681508264383}
+{"body":{"amountofDataConsumed":"2","billingAmount":"10","numberOfMinutesUsed":"11","numberOfOutgoingCallsMade":"18","numberOfTextsSent":"6"},"level":"info","method":"PUT","params":{},"path":"/bills/3","service":"phone-company","timestamp":1681508973990}
+{"body":{"amountofDataConsumed":"2","billingAmount":"10","numberOfMinutesUsed":"11","numberOfOutgoingCallsMade":"18","numberOfTextsSent":"6"},"level":"info","method":"PUT","params":{},"path":"/bills/3","service":"phone-company","timestamp":1681509137444}
+{"body":{"amountofDataConsumed":"2","billingAmount":"10","numberOfMinutesUsed":"11","numberOfOutgoingCallsMade":"18","numberOfTextsSent":"6"},"level":"info","method":"DELETE","params":{},"path":"/bills/2","service":"phone-company","timestamp":1681509283000}
